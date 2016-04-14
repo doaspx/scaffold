@@ -19,7 +19,8 @@
     "react",
     "webpack",
     "es6",
-    "babel"
+    "babel",
+    "scaffold"
   ],
   "author": "doaspx",
   "license": "ISC",
