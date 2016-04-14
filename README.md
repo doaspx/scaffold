@@ -25,7 +25,7 @@
 
 ```
 $ git clone git@github.com:doaspx/socaffold.git
-$ cd webpack-dev-boilerplate
+$ cd scaffold
 $ npm install
 ```
 ## 2. dev
