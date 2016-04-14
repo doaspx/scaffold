@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/doaspx/scaffold/issues"
   },
-  "homepage": "https://github.com/doaspx/scaffold#readme",
+  //"homepage": "https://github.com/doaspx/scaffold#readme",
   "dependencies": {
     "bootstrap": "^3.3.6",
     "react": "^0.14.7",
