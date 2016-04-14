@@ -24,7 +24,7 @@
 ## 1. start
 
 ```
-$ git clone git@github.com:GuoYongfeng/webpack-dev-boilerplate.git
+$ git clone git@github.com:doaspx/socaffold.git
 $ cd webpack-dev-boilerplate
 $ npm install
 ```
