@@ -2,6 +2,7 @@
 
 var path = require('path');
 var webpack = require('webpack');
+//压缩打包文件
 var uglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
 // 产出html模板
 var HtmlWebpackPlugin = require("html-webpack-plugin");
