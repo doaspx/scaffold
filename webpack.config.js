@@ -62,8 +62,8 @@ module.exports = {
       ]
     },
     plugins: [
-      new webpack.HotModuleReplacementPlugin(),
-      new webpack.NoErrorsPlugin(),
+      new webpack.HotModuleReplacementPlugin(), //热加载
+      new webpack.NoErrorsPlugin(), //防止不错
       new webpack.optimize.CommonsChunkPlugin('vendor', 'vendor.js'),
       new HtmlWebpackPlugin({
         title: 'your app title',
