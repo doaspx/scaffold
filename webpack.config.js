@@ -12,7 +12,7 @@ module.exports = {
     entry: {
       index: [
         'webpack/hot/dev-server',
-        'webpack-dev-server/client?http://localhost:8080',
+        'webpack-dev-server/client?http://localhost:8080', //实现代码热替换
         path.resolve(__dirname, 'app/index.js')
       ],
       vendor: ['react', 'react-dom']
